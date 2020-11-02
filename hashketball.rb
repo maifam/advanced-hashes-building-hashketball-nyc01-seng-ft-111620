@@ -1,5 +1,10 @@
 def game_hash 
   basketball = { 
-    :home => {}
-    :away => away
+    :home => {
+      
+    }
+    :away => {
+      
+    }
+  }
 end 
